@@ -4,7 +4,6 @@
 // @version      v1.0.0
 // @description  Script for faster quick selling!
 // @author       DavidAngell
-// @iconURL      https://phoenixpwn.com/phoenix.png
 // @match        *://krunker.io/social.html?*
 // @grant        none
 // ==/UserScript==
