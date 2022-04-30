@@ -11,7 +11,7 @@ Tampermonkey Chrome Extension
 3. Click "Create new script..."
 4. 'Ctrl-A' then 'Backspace'
 5. Copy the code from "quick_sell.js"
-6. Paste in Tampermonkey and change the "Excluded Items" to whatever you want to exclude
+6. Paste in Tampermonkey and change the "EXCLUDED_ITEM_NAMES" to whatever you want to ALWAYS exclude
 7. 'Ctrl-S'
 
 # **Usage**
